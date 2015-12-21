@@ -54,5 +54,5 @@ The script also creates the following:
 
 - Once completed, it will display the new passwords for pgadmin, root, postgres, and ssl as well as write them to an auth.txt file.
 
-You will need to enter the postgres password in Webmin
+
 
