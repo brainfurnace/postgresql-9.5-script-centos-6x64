@@ -54,6 +54,8 @@ The script also creates the following:
 
 - Once completed, it will display the new passwords for pgadmin, root, postgres, and ssl as well as write them to an auth.txt file.
 
+Example:
+
 Passwords saved in /root/auth.txt
 
 pg pass: DqVnavTlCXcSKfHprgUtjF-20rpfsKui
