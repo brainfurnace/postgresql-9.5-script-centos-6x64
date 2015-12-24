@@ -54,7 +54,15 @@ The script also creates the following:
 
 - Once completed, it will display the new passwords for pgadmin, root, postgres, and ssl as well as write them to an auth.txt file.
 
-Example:
+Usage: 
+
+1. Download the script to a clean CentOS 6.x64 box
+2. Make it executable <code> chmod 755 pgsql-9.5-centos-6x-64.sh</code>
+3. Execute it <code>./pgsql-9.5-centos-6x-64.sh</code>
+
+
+
+Example output at end of script:
 
 Passwords saved in /root/auth.txt
 
